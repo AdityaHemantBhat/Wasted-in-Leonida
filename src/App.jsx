@@ -1,4 +1,5 @@
 import React from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { PosterProvider } from './context/PosterContext';
 import { useScrollAnimations } from './hooks/useScrollAnimations';
 import Preloader from './components/ui/Preloader';
@@ -39,6 +40,7 @@ export default function App() {
   return (
     <PosterProvider>
       <MainLayout />
+      <Analytics />
     </PosterProvider>
   );
 }
