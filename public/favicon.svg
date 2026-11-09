@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="20" fill="#0b0b1a"/>
+  <!-- Slanted W -->
+  <path d="M 18,22 L 27,22 L 34,68 L 44,22 L 53,22 L 60,68 L 68,22 L 77,22 L 66,78 L 56,78 L 49,36 L 42,78 L 32,78 Z" fill="#ff2e88"/>
+  <!-- Star Docked -->
+  <polygon points="76,52 79,62 89,62 81,68 84,78 76,72 68,78 71,68 63,62 73,62" fill="#ffb52e"/>
+</svg>
+

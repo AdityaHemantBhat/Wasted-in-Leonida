@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://wanted-in-leonida.vercel.app/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://wanted-in-leonida.vercel.app/images/ocean-drive-sunset.jpg</image:loc>
+      <image:title>GTA 6 Wanted Poster Studio — Ocean Drive Sunset in Leonida</image:title>
+      <image:caption>Grand Theft Auto VI inspired custom wanted poster maker in Leonida Vice City</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wanted-in-leonida.vercel.app/images/jason-duval.png</image:loc>
+      <image:title>GTA 6 Jason Duval Wanted Poster</image:title>
+      <image:caption>Grand Theft Auto VI protagonist Jason Duval in Leonida State</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wanted-in-leonida.vercel.app/images/lucia-caminos.png</image:loc>
+      <image:title>GTA 6 Lucia Caminos Wanted Poster</image:title>
+      <image:caption>Grand Theft Auto VI protagonist Lucia Caminos in Leonida State</image:caption>
+    </image:image>
+  </url>
+</urlset>
+

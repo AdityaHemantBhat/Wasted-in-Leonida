@@ -1,0 +1,18 @@
+{
+  "name": "Wasted in Leonida — GTA 6 Wanted Poster Studio",
+  "short_name": "Wasted in Leonida",
+  "description": "Create custom GTA 6 wanted posters set in Vice City, Leonida State. Export high-res LCPD mugshots and dossiers directly from your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07070f",
+  "theme_color": "#ff2e88",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
